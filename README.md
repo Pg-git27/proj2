@@ -40,11 +40,11 @@ Maria Alzaga, Tyler Pohl, Priyanka Garg, Fellipe Lopez and Kasmira Madina
 
 **Recommended Role Assignment (may vary)**
 
-•	Project Manager
+•	Project Manager - 
 •	Lead Developer -
 •	Frontend Developer - Priyanka Garg
 •	Backend Developer - 
 •	Data Engineer/Data Modeler -
-***
+
 
 UT Data Analysis & Visualization Bootcamp | December 2020

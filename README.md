@@ -9,11 +9,11 @@ Maria Alzaga, Tyler Pohl, Priyanka Garg, Fellipe Lopez and Kasmira Madina
 
 •	Lead Developer - Fellipe Lopez, Tyler Pohl
 
-•	Frontend Developer - Priyanka Garg
+•	Frontend Developer - Priyanka Garg , Maria Alzaga
 
 •	Backend Developer - Maria Alzaga, Tyler Pohl, Priyanka Garg, Fellipe Lopez and Kasmira Madina
 
-•	Data Engineer/Data Modeler - Fellipe Lopez, Maria Alzaga
+•	Data Engineer/Data Modeler - Fellipe Lopez, Priyanka Garg
 
 
 

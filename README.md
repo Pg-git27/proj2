@@ -1,5 +1,18 @@
 Welcome to the proj2 wiki!
 
+Team Members:  
+Maria Alzaga, Tyler Pohl, Priyanka Garg, Fellipe Lopez and Kasmira Madina
+
+**Team Members**
+
+•	Project Manager - Fellipe Lopez, Tyler Pohl
+•	Lead Developer - Fellipe Lopez, Tyler Pohl
+•	Frontend Developer - Priyanka Garg
+•	Backend Developer - Maria Alzaga, Tyler Pohl, Priyanka Garg, Fellipe Lopez and Kasmira Madina
+•	Data Engineer/Data Modeler - Fellipe Lopez, Maria Alzaga
+
+
+
 ***
 
 ## # Airline statistics and delay causes
@@ -35,16 +48,6 @@ The dataset consists of information about 23 carriers and 373 airports from year
 •	Create the web app using HTML, CSS, Bootstrap, JS.
 •	Plotting the routes and querying the code in flask python
 
-**Team Members: ** 
-Maria Alzaga, Tyler Pohl, Priyanka Garg, Fellipe Lopez and Kasmira Madina
-
-**Recommended Role Assignment (may vary)**
-
-•	Project Manager - Fellipe Lopez, Tyler Pohl
-•	Lead Developer - Fellipe Lopez, Tyler Pohl
-•	Frontend Developer - Priyanka Garg
-•	Backend Developer - Maria Alzaga, Tyler Pohl, Priyanka Garg, Fellipe Lopez and Kasmira Madina
-•	Data Engineer/Data Modeler - Fellipe Lopez
 
 
 UT Data Analysis & Visualization Bootcamp | December 2020

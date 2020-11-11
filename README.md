@@ -1,8 +1,5 @@
 Welcome to the proj2 wiki!
 
-Team Members:  
-Maria Alzaga, Tyler Pohl, Priyanka Garg, Fellipe Lopez and Kasmira Madina
-
 **Team Members**
 
 •	Project Manager - Fellipe Lopez, Tyler Pohl

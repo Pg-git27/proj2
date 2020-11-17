@@ -8,7 +8,7 @@ Welcome to the proj2 wiki!
 
 •	Frontend Developer - Priyanka Garg , Maria Alzaga
 
-•	Backend Developer - Maria Alzaga, Tyler Pohl, Priyanka Garg, Fellipe Lopez and Kasmira Madina
+•	Backend Developer - Maria Alzaga, Tyler Pohl, Fellipe Lopez and Kasmira Madina
 
 •	Data Engineer/Data Modeler - Fellipe Lopez, Maria Alzaga
 

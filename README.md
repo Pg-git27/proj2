@@ -1,3 +1,8 @@
+
+![github-small](https://user-images.githubusercontent.com/68081615/190210649-af611361-7a30-44c6-95ea-244a3cae5b5f.jpg)
+
+
+
 Welcome to the proj2 wiki!
 
 **Team Members**
